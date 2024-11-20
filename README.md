@@ -33,4 +33,4 @@
 <img src="https://raw.githubusercontent.com/kumugu/kumugu/output/snake.svg" alt="Snake animation" />
 
 ###
-![snake gif](https://github.com/kumugu/kumugu/blob/output/github-contribution-grid-snake.svg)
+
